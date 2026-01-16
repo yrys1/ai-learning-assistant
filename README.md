@@ -1,4 +1,6 @@
 
+🔗 **Live Demo:** https://ai-learning-assistant-ovck.vercel.app
+
 # 🤖 AI Learning Assistant (React)
 
 ## 📌 Projektbeschreibung
